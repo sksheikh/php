@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/php-day-03",
+  "type": "project",
+  "description": "",
+  "license": "proprietary",
+  "keywords": [],
+
+  "require": {
+    
+  },
+  "require-dev": {
+
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app//"
+    }
+  }
+}
